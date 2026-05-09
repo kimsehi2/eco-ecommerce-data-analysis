@@ -102,3 +102,31 @@ B2C 구조 기반 **친환경 이커머스 플랫폼**의 매출 하락 문제�
 | 양호준 | 팀장, 시연 앱 개발 |
 | 이소현 | ARIMA 분석, PPT |
 | 이호원 | 카이제곱 검정, PPT |
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7f3a0345-17a0-4582-94e9-4e87f28fba95" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d7976901-c857-4a67-b671-4c99c6cf8e6f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fad8929f-5ec6-48e9-b937-4c147a2c97fc" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/00e8f338-de4d-47d4-9947-a697814ba40f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b0172720-bf29-433e-9f45-1de7936273e2" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4f83c8dd-8618-4d83-adf2-270fdb7500c1" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/30f3513e-2dd9-461e-a7e6-5f0e49e3ee39" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/24bac530-d3d0-4f40-a9a9-db7c8b5ed909" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/072f9893-c381-4216-b989-5661dd2016a3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f9a75563-3734-4195-99cf-0496e07847c4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9dca4fa-2e61-49b3-b736-682b6c8ea1e2" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d88c5b9c-9cc0-40e1-96c7-251a05eda953" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e1e5dacd-095f-464d-8b36-43ccbdde12bc" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/db10f022-ff4b-42c3-bde1-5ad0bbd25923" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9dfb3e5e-5761-47d7-a0fa-374dc8f9dcb9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e40d0378-7920-4733-88dd-c55bf3e66296" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e3ea973d-0394-493b-ba66-25a97f37b621" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ef420130-635b-4041-8adb-3d818658484c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0dbb136d-7341-4a33-b7af-8f46422ba9c0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fdb8e127-c5ab-4823-8bd0-28be2b58021c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4c03c2f0-d2f5-48fd-a61d-22a2608a9b4b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb59d86c-545f-44b9-914a-07157dfd1869" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cfa68b1b-ad62-4313-bb8f-c67fd30b6c75" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f59b9cae-60b0-4675-b87a-771cb5e69a34" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6ea1a31b-f86f-4378-8f35-59f4bc4bd3d8" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0c00cf5c-db31-4241-9cb8-02fa01ff8627" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9f1f8a9c-93f0-4817-b454-ffd403b8a610" />
